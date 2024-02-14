@@ -18,7 +18,7 @@ This is a simple login screen built using HTML and CSS. It provides static error
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/simple-login-screen.git
+   git clone https://github.com/Yussif20/loginScreen
    ```
 
 2. Navigate to the project directory:
